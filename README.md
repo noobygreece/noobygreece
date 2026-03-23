@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noobygreece
 - 👀 I’m interested in coding and doing volley
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning python
 - 💞️ I’m **NOT** looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/his/him straight
